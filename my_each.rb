@@ -1,3 +1,7 @@
 def my_each(things)
-  # code here
+  i = 0
+  while i < things.length
+    i += 1
+    
+  end
 end
