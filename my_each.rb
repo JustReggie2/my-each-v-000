@@ -5,4 +5,5 @@ def my_each(things)
     i += 1
 
   end
+  things
 end
